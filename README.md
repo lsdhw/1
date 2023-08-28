@@ -1,6 +1,9 @@
 # 蓝色导航地址发布页
 
+如果页面失效，请发邮件至lansefabu@gmail.com自动获取最新地址
+
 # 最新地址
+<a href="http://www.landh.men:8880/" target="_blank">点击进入</a></p>
 <a href="http://lanse11.men" target="_blank"><span style="color:red;">lanse11.men</span></a></p>
 <a href="http://lanse12.men" target="_blank"><span style="color:red;">lanse12.men</span></a></p>
 
